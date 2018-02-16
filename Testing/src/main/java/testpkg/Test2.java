@@ -1,11 +1,10 @@
 package testpkg;
 
-public class MyTest {
+public class Test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Testing project started again ");
-
+System.out.println("test2 project started");
 	}
 
 }
